@@ -1,0 +1,19 @@
+{
+  "name": "animation-brackets-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A theme which adds blinking bracket-matcher when you create matching brackets",
+  "keywords": [
+    "syntax",
+    "theme",
+    "brackets",
+    "matching",
+    "animation",
+    "bracketanimation"
+  ],
+  "repository": "https://github.com/StevenCopeland/animation-brackets-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
